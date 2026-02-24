@@ -23,11 +23,11 @@
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://podcast.tidyhq.com/artwork.jpg"/>
+    <itunes:image href="https://aquillaclaw-sys.github.io/off-field-podcast/artwork.jpg"/>
     <itunes:type>episodic</itunes:type>
     <podcast:locked>no</podcast:locked>
     <podcast:funding url="https://tidyhq.com">Supported by TidyHQ</podcast:funding>
-    <atom:link href="https://podcast.tidyhq.com/rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://aquillaclaw-sys.github.io/off-field-podcast/rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>NRL's Record Growth, AIS Youth Guidelines, and What Smart Governance Looks Like</title>
       <description><![CDATA[Off Field - Australian Sports Administration - The Daily
@@ -112,7 +112,7 @@ TidyConnect - Communication hub: https://tidyconnect.com]]></description>
 <li><a href="https://tidyconnect.com">TidyConnect - Communication Hub</a></li>
 </ul>
 <p>Sponsored by <a href="https://tidyhq.com">TidyHQ</a> and <a href="https://tidyconnect.com">TidyConnect</a></p>]]></content:encoded>
-      <enclosure url="https://podcast.tidyhq.com/episodes/2026-02-24/episode.mp3" length="28939812" type="audio/mpeg"/>
+      <enclosure url="https://aquillaclaw-sys.github.io/off-field-podcast/episodes/2026-02-24/episode.mp3" length="28939812" type="audio/mpeg"/>
       <pubDate>Tue, 24 Feb 2026 06:00:00 +1100</pubDate>
       <guid isPermaLink="false">off-field-2026-02-24</guid>
       <itunes:duration>00:19:38</itunes:duration>
@@ -120,7 +120,7 @@ TidyConnect - Communication hub: https://tidyconnect.com]]></description>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:keywords>sports administration, club management, governance, volunteer, Australia, community sport, association management</itunes:keywords>
-      <podcast:chapters url="https://podcast.tidyhq.com/episodes/2026-02-24/chapters.json" type="application/json+chapters"/>
+      <podcast:chapters url="https://aquillaclaw-sys.github.io/off-field-podcast/episodes/2026-02-24/chapters.json" type="application/json+chapters"/>
     </item>
   </channel>
 </rss>
