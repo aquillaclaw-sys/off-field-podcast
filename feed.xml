@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Off Field</title>
+    <link>https://tidyhq.com/offfield</link>
+    <description>The daily podcast for everyone running sport off the field. From local club committees to state and national bodies, Off Field covers the news, trends, and ideas shaping sports administration across Australia. Governance, funding, volunteer management, digital transformation, and the business of keeping sport running -- two hosts break it down in fifteen minutes every weekday morning. Brought to you by TidyHQ and TidyConnect.</description>
+    <language>en-au</language>
+    <itunes:author>TidyHQ</itunes:author>
+    <itunes:owner>
+      <itunes:name>TidyHQ</itunes:name>
+      <itunes:email>podcast@tidyhq.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Your daily briefing on sports administration, club management, and community organisation news. Two hosts break down the stories that matter for anyone running a club, association, or community group in Australia.</itunes:summary>
+    <itunes:category text="Sports"/>
+    <itunes:category text="Business">
+      <itunes:category text="Management"/>
+    </itunes:category>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://podcast.tidyhq.com/artwork.jpg"/>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked>no</podcast:locked>
+    <podcast:funding url="https://tidyhq.com">Supported by TidyHQ</podcast:funding>
+    <atom:link href="https://podcast.tidyhq.com/rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NRL's Record Growth, AIS Youth Guidelines, and What Smart Governance Looks Like</title>
+      <description><![CDATA[Off Field - Australian Sports Administration - The Daily
+Episode: NRL's Record Growth, AIS Youth Guidelines, and What Smart Governance Looks Like
+Date: 2026-02-24
+
+Sponsored by TidyHQ (https://tidyhq.com) and TidyConnect (https://tidyconnect.com)
+
+--- CHAPTERS ---
+
+00:00 - Welcome to Off Field
+  Link: https://tidyhq.com
+00:30 - NRL Reports Record-Breaking Participation
+  Link: https://www.nrl.com/news/2026/02/23/rugby-league-announces-record-breaking-results/
+04:00 - Schools Strategy: 829,000 Kids Through the Pipeline
+  Link: https://www.nrl.com/news/2026/02/23/participation-growth-strengthens-foundation-for-future-success/
+07:00 - AIS Elite Youth Athlete Guidelines for Brisbane 2032
+  Link: https://www.ausport.gov.au/ais/eyaguidelines
+10:00 - TidyConnect Sponsor Read
+  Link: https://tidyconnect.com
+10:30 - The Governance Lesson: What NRL's Growth Tells Us
+14:00 - Quick Hits: Matildas, F1 Festival, Rally Broadcast Deal
+17:00 - Sports Governance Recruitment Roundup
+  Link: https://www.sportspeople.com.au
+18:20 - Wrap Up
+  Link: https://tidyhq.com
+
+--- LINKS &amp; SOURCES ---
+
+- NRL Annual Report 2025 - Record Breaking Results
+  https://www.nrl.com/news/2026/02/23/rugby-league-announces-record-breaking-results/
+- NRL Participation Growth in Schools
+  https://www.nrl.com/news/2026/02/23/participation-growth-strengthens-foundation-for-future-success/
+- AIS Elite Youth Athlete Guidelines
+  https://www.ausport.gov.au/ais/eyaguidelines
+- Matildas: Kerr and Fowler Boost Before Asian Cup
+  https://www.abc.net.au/news/2026-02-23/sam-kerr-mary-fowler-matildas-asian-cup-boost/106374902
+- Free F1 Fan Festival at Federation Square
+  https://www.premier.vic.gov.au/free-f1-fan-festival-take-over-federation-square
+- Australian Rally Championship - New FOX SPORTS Deal
+  https://motorsport.org.au/media/news/detail/2026/02/23/australian-rally-championship-secures-new-broadcast-deal/
+- Karrie Webb Junior Female Golf Camp
+  https://golf.com.au/news/karrie-webb-launches-junior-female-camp
+- Clearinghouse for Sport - Daily Sports News
+  https://www.clearinghouseforsport.gov.au/
+- TidyHQ - Club &amp; Association Management
+  https://tidyhq.com
+- TidyConnect - Communication Hub
+  https://tidyconnect.com
+
+--- ABOUT ---
+
+Off Field is the daily podcast for everyone running sport off the field.
+From local club committees to state and national bodies, we cover the news,
+trends, and ideas shaping sports administration across Australia.
+
+TidyHQ - All-in-one club management: https://tidyhq.com
+TidyConnect - Communication hub: https://tidyconnect.com]]></description>
+      <content:encoded><![CDATA[<p><strong>NRL's Record Growth, AIS Youth Guidelines, and What Smart Governance Looks Like</strong></p>
+<p>The NRL reports record participation of 1.12 million, the AIS releases landmark youth athlete guidelines ahead of Brisbane 2032, and we break down what strategic sports administration looks like in practice. Plus quick hits on the Matildas, F1 Fan Festival, and sports governance recruitment.</p>
+<h3>In This Episode</h3><ul>
+<li><strong>00:00</strong> Welcome to Off Field — <a href="https://tidyhq.com">Read more</a></li>
+<li><strong>00:30</strong> NRL Reports Record-Breaking Participation — <a href="https://www.nrl.com/news/2026/02/23/rugby-league-announces-record-breaking-results/">NRL Annual Report 2025</a></li>
+<li><strong>04:00</strong> Schools Strategy: 829,000 Kids Through the Pipeline — <a href="https://www.nrl.com/news/2026/02/23/participation-growth-strengthens-foundation-for-future-success/">NRL Participation Growth</a></li>
+<li><strong>07:00</strong> AIS Elite Youth Athlete Guidelines for Brisbane 2032 — <a href="https://www.ausport.gov.au/ais/eyaguidelines">AIS Youth Athlete Guidelines</a></li>
+<li><strong>10:00</strong> TidyConnect Sponsor Read — <a href="https://tidyconnect.com">Read more</a></li>
+<li><strong>10:30</strong> The Governance Lesson: What NRL's Growth Tells Us</li>
+<li><strong>14:00</strong> Quick Hits: Matildas, F1 Festival, Rally Broadcast Deal</li>
+<li><strong>17:00</strong> Sports Governance Recruitment Roundup — <a href="https://www.sportspeople.com.au">Sports recruitment on Sportspeople</a></li>
+<li><strong>18:20</strong> Wrap Up — <a href="https://tidyhq.com">Read more</a></li>
+</ul>
+<h3>Links &amp; Sources</h3><ul>
+<li><a href="https://www.nrl.com/news/2026/02/23/rugby-league-announces-record-breaking-results/">NRL Annual Report 2025 - Record Breaking Results</a></li>
+<li><a href="https://www.nrl.com/news/2026/02/23/participation-growth-strengthens-foundation-for-future-success/">NRL Participation Growth in Schools</a></li>
+<li><a href="https://www.ausport.gov.au/ais/eyaguidelines">AIS Elite Youth Athlete Guidelines</a></li>
+<li><a href="https://www.abc.net.au/news/2026-02-23/sam-kerr-mary-fowler-matildas-asian-cup-boost/106374902">Matildas: Kerr and Fowler Boost Before Asian Cup</a></li>
+<li><a href="https://www.premier.vic.gov.au/free-f1-fan-festival-take-over-federation-square">Free F1 Fan Festival at Federation Square</a></li>
+<li><a href="https://motorsport.org.au/media/news/detail/2026/02/23/australian-rally-championship-secures-new-broadcast-deal/">Australian Rally Championship - New FOX SPORTS Deal</a></li>
+<li><a href="https://golf.com.au/news/karrie-webb-launches-junior-female-camp">Karrie Webb Junior Female Golf Camp</a></li>
+<li><a href="https://www.clearinghouseforsport.gov.au/">Clearinghouse for Sport - Daily Sports News</a></li>
+<li><a href="https://tidyhq.com">TidyHQ - Club &amp; Association Management</a></li>
+<li><a href="https://tidyconnect.com">TidyConnect - Communication Hub</a></li>
+</ul>
+<p>Sponsored by <a href="https://tidyhq.com">TidyHQ</a> and <a href="https://tidyconnect.com">TidyConnect</a></p>]]></content:encoded>
+      <enclosure url="https://podcast.tidyhq.com/episodes/2026-02-24/episode.mp3" length="28939812" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +1100</pubDate>
+      <guid isPermaLink="false">off-field-2026-02-24</guid>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:summary>The NRL reports record participation of 1.12 million, the AIS releases landmark youth athlete guidelines ahead of Brisbane 2032, and we break down what strategic sports administration looks like in practice. Plus quick hits on the Matildas, F1 Fan Festival, and sports governance recruitment.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:keywords>sports administration, club management, governance, volunteer, Australia, community sport, association management</itunes:keywords>
+      <podcast:chapters url="https://podcast.tidyhq.com/episodes/2026-02-24/chapters.json" type="application/json+chapters"/>
+    </item>
+  </channel>
+</rss>

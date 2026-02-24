@@ -1,0 +1,48 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Welcome to Off Field",
+      "url": "https://tidyhq.com"
+    },
+    {
+      "startTime": 30,
+      "title": "NRL Reports Record-Breaking Participation",
+      "url": "https://www.nrl.com/news/2026/02/23/rugby-league-announces-record-breaking-results/"
+    },
+    {
+      "startTime": 240,
+      "title": "Schools Strategy: 829,000 Kids Through the Pipeline",
+      "url": "https://www.nrl.com/news/2026/02/23/participation-growth-strengthens-foundation-for-future-success/"
+    },
+    {
+      "startTime": 420,
+      "title": "AIS Elite Youth Athlete Guidelines for Brisbane 2032",
+      "url": "https://www.ausport.gov.au/ais/eyaguidelines"
+    },
+    {
+      "startTime": 600,
+      "title": "TidyConnect Sponsor Read",
+      "url": "https://tidyconnect.com"
+    },
+    {
+      "startTime": 630,
+      "title": "The Governance Lesson: What NRL's Growth Tells Us"
+    },
+    {
+      "startTime": 840,
+      "title": "Quick Hits: Matildas, F1 Festival, Rally Broadcast Deal"
+    },
+    {
+      "startTime": 1020,
+      "title": "Sports Governance Recruitment Roundup",
+      "url": "https://www.sportspeople.com.au"
+    },
+    {
+      "startTime": 1100,
+      "title": "Wrap Up",
+      "url": "https://tidyhq.com"
+    }
+  ]
+}
